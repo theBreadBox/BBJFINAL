@@ -61,7 +61,7 @@ function Mint() {
 	const [Price, setPrice] = useState(0)
 	const [presaleOnly, setPresaleOnly] = useState(null)
 	const [totalBBJs, setTotalBBJs] = useState("8888")
-    const [totalMinted, setTotalMinted] = useState(0)
+    	const [totalMinted, setTotalMinted] = useState(0)
 	const [cost, setCost] =useState(null)
 	//Links
 	const [openseaURL, setOpenseaURL] = useState('https://opensea.io/')
